@@ -1,10 +1,11 @@
-- 👋 Hi, I’m @Rollin8395
-- 👀 I’m interested in IOT
-- 🌱 I’m currently learning Embedded Systems , IOT projects ,etc
-- 💞️ I’m looking to collaborate on Projects based on IOT 
-- 📫 How to reach me rollinyambemrkmv@gmail.com
-
-<!---
-Rollin8395/Rollin8395 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋🏽 Hi, my name is Rollin
+🎓 Soon to be grad with a B.Tech in Electronics and Communication Engineering. (May 2023)
+🌇 Imphal(Manipur) Native, with a passion for researching in IOT products and like producing new ideas for 
+ smart life
+📚 Done my secondary education from Ramakrishna Mission Vidyalaya, Narendrapur, Kolkata
+ Higher secondary education from Prince Academy, Sikar, Rajasthan
+ Currently doing my B.Tech in IIIT Una, H.P.
+💻 Want to become an IOT engineer, Hope to make more smart products to make life more easy and helpful 
+ using latest technologies in IOT
+🏔 Like playing Video Games and Football , watching movies, Photography and much more
+💪🏽 R&D, Python, Microcontrollers(Arduino, Raspberry Pi), Computer Vision, AI
