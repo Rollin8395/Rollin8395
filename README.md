@@ -1,6 +1,6 @@
 👋🏽 Hi, my name is Rollin
 
-🎓 Soon to be grad with a B.Tech in Electronics and Communication Engineering. (May 2023)
+🎓 Grad with a B.Tech in Electronics and Communication Engineering. (May 2023)
 
 🌇 Imphal(Manipur) Native, with a passion for researching in IOT products and like producing new ideas for 
  smart life
