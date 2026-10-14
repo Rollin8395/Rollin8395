@@ -1,4 +1,4 @@
-<h1 align="center">Hey, I'm [Your Name] 👋</h1>
+<h1 align="center">Hey, I'm Rollin 👋</h1>
 
 <p align="center"><i>Backend dev by trade, electronics engineer in the making, gamer by nature 🎮</i></p>
 
