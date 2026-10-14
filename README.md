@@ -1,17 +1,23 @@
-👋🏽 Hi, my name is Rollin
+<h1 align="center">Hey, I'm [Your Name] 👋</h1>
 
-🎓 Grad with a B.Tech in Electronics and Communication Engineering. (May 2023)
+<p align="center"><i>Backend dev by trade, electronics engineer in the making, gamer by nature 🎮</i></p>
 
-🌇 Imphal(Manipur) Native, with a passion for researching in IOT products and like producing new ideas for 
- smart life
-	
-📚 Done my secondary education from Ramakrishna Mission Vidyalaya, Narendrapur, Kolkata
- Higher secondary education from Prince Academy, Sikar, Rajasthan
- Currently doing my B.Tech in IIIT Una, H.P.
-	
-💻 Want to become an IOT engineer, Hope to make more smart products to make life more easy and helpful 
- using latest technologies in IOT
-	
-🏔 Like playing Video Games and Football , watching movies, Photography and much more
+---
 
-💪🏽 R&D, Python, Microcontrollers(Arduino, Raspberry Pi), Computer Vision, AI
+- 💻 **2 years** of backend development experience
+- 🎓 Master's student in **Electronics Engineering** @ Sapienza University of Rome
+- 🎮 Gaming is my side quest (and sometimes the main one)
+- 📍 Based in **Rome, Italy** 🇮🇹
+
+### 🛠️ Stack
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![C](https://img.shields.io/badge/-C-A8B9CC?style=for-the-badge&logo=c&logoColor=black)
+
+<p align="center">
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=tokyonight&hide_border=true" />
+</p>
+
+<p align="center"><i>From APIs to circuits, always leveling up. ⚡</i></p>
