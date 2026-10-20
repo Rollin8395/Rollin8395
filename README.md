@@ -27,6 +27,6 @@
 
 ### 📊 GitHub Stats
 
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rollin8395&show_icons=true&theme=dark)
 
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rollin8395&layout=compact&theme=dark)
