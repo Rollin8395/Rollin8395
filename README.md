@@ -25,8 +25,5 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-### 📊 GitHub Stats
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Rollin8395&show_icons=true&theme=dark)
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rollin8395&layout=compact&theme=dark)
