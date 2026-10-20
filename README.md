@@ -25,4 +25,8 @@
 ![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=arduino&logoColor=white)
 ![Raspberry Pi](https://img.shields.io/badge/-Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white)
 
-<p align="center"><i>From APIs to circuits, always leveling up. ⚡</i></p>
+### 📊 GitHub Stats
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=dark)
+
+![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=dark)
