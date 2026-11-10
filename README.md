@@ -28,3 +28,7 @@
 
 
 ![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Rollin8395&layout=compact&theme=dark)
+
+<p align="center">
+  <img src="koi/koi.gif" width="256" alt="My koi" />
+</p>
